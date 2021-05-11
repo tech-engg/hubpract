@@ -4,7 +4,7 @@ public class helloworld {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World");
-		System.out.println("Hello  the World");
+		System.out.println("Hello  how are u");
 //<//<<<<<< HEAD
 		//System.out.println("Hello the java");
 //=======
