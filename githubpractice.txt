@@ -1,0 +1,170 @@
+  280  git init
+  283  mkdir gitlearning
+  284  cd gitlearning
+  287  git init
+  292  git branch -M main
+  293  cd gitlerning
+  295  cd gitlearning
+  296  git branch -M main
+  298  git branch -M master
+  299  cd gitlearning
+  300  git status
+  302  git add test.sh
+  303  git status
+  305  git commit -m "first cimmit"
+  306  git commit -m "first commit"
+  307  git config  --global user.name "tech-engg"
+  308  git config  --global user.email "tech-engg"
+  309  git config  --global user.email 
+  310  git config  --global user.email techsolution.enggn@gmail.com
+  312  git status
+  313  git commit -m "firstcommit"
+  314  git push origin main
+  315  get remote set-url https://github.com/tech-engg/helloworld
+  316  get remote set-url https://github.com/tech-engg/helloworld.git
+  318  get remote set-url https://github.com/tech-engg/helloworld
+  320  git add readme.sh
+  322  git commit -m "firstcommit"
+  323  git branch -M main
+  324  git remote add origin https://github.com/tech-engg/helloworld.git
+  325  git push -u origin main
+  410  git clone https://github.com/tech-engg/coinToss.git
+  417  git clone https://github.com/tech-engg/coinToss.git
+  419  ls .git
+  421  git clone https://github.com/tech-engg/coinToss.git
+  431  git status
+  432  git add coinToss.sh
+  433  git status
+  434  git commit -m "ADDED: Added coinToss welcome"
+  435  git push -u origin main
+  436  git checkout -b "UC-1-coinToss" origin/main
+  437  git status
+  438  git push -u origin UC-1-coinToss
+  439  git status
+  440  git add coinToss.sh
+  441  git status
+  443  git status
+  444  git status
+  445  git pusg origin UC-1-coinToss
+  446  git push  origin UC-1-coinToss
+  447  git add coinToss.sh
+  448  git commit -m "MODIFIED: Modified coinToss welcome"
+  449  git push  origin UC-1-coinToss
+  450  git branch
+  451  git checkout main
+  452  git branch
+  453  git merge UC-1-coinToss
+  454  git push origin main
+  503  git clone https://github.com/tech-engg/hubpract.git
+  508  git add .
+  509  git status
+  510  git commit -m "first commit"
+  511  git status
+  512  git push 
+  515  git pull
+  518  git diff HelloWorld.java HelloWorld.java
+  520  git diff HelloWorld.java 
+  522  git status
+  523  git add .
+  524  git ststus
+  525  git status
+  526  git commit -m "added the" 
+  527  git status
+  528  git diff
+  529  git pull
+  531  git merge main
+  534  git diff
+  535  git push
+  536  git push -u
+  537  git pull
+  539  git add .
+  540  git status
+  541  git commit -m "solved conflict"
+  542  git status
+  543  git push
+  544  git checkout developedfeature
+  545  git branch developed
+  546  git --list
+  551  git branch --list
+  552  git checkout developed
+  554  git status
+  555  git checkout master
+  557  git pull
+  560  git diff
+  561  git pull
+  562  git diff
+  563  git branch --list
+  564  git pull
+  565  git diff
+  566  git checkout development
+  567  git branch --list
+  568  git checkout developed
+  571  git checkout master
+  572  git checkout developed
+  574  git checkout master
+  575  git pull
+  576  git diff
+  577  git merge developed
+  578  git branch --list
+  580  git checkout developed
+  582  git checkout master
+  583  git merge master
+  584  git checkout developed
+  585  git merge 
+  586  git checkout master
+  587  git merge 
+  588  git checkout developed
+  589  git merge developed
+  590  git checkout master
+  591  git diff
+  592  git pull
+  593  git status
+  594  git add .
+  595  git status
+  596  git commit -m "code done"
+  597  git status
+  598  git checkout developed
+  599  git status
+  600  git push
+  601  git checkout master
+  602  git push
+  603  git checkout -b developed
+  604  git checkout -b feature
+  608  git checkout master
+  609  git pull
+  610  git diff
+  611  git branch --list
+  612  git branch -d developed
+  613  git diff
+  614  git status
+  615  git barnch --list
+  616  git branch --list
+  618  git checkout feature
+  620  git checkout master
+  621  git diff
+  622  git merge
+  623  git pull
+  624  git diff
+  627  git checkout feature
+  630  git add .
+  631  git status
+  632  git push
+  633  git push -U
+  634  git push -u
+  635  git diff
+  636  git checkout master
+  637  git diff
+  638  git status
+  639  git merge
+  640  git push
+  641  git merge feature
+  642  git push feature
+  643  git push
+  644  git checkout feature 
+  645  git push origin feature
+  646  git checkout master
+  647  git diff
+  648  git merge feature
+  649  git push origin master
+  650  history | grep git
+  651  history | grep git >> githubpractice.txt
